@@ -19,3 +19,13 @@ nav:
     - Database Management: ./dependency-injection/database.md
     - External Services: ./dependency-injection/external-services.md
   - Best Practice: ./dependency-injection/best-practice.md
+
+- OpenAPI in FastAPI:
+  - Introduction: ./openapi/introduction.md
+  - Basic Usage: ./openapi/basic-usage.md
+  - Pydantic Models: ./openapi/pydantic-models.md
+  - OpenAPI Schema: ./openapi/openapi-schema.md
+  - Advanced: ./openapi/advanced-schema.md
+  - API documentation: ./openapi/api-documentation.md
+  - Best Practice: ./openapi/best-practice.md
+  - Troubleshooting: ./openapi/troubleshooting.md
