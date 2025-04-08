@@ -1,0 +1,21 @@
+site_name: Fastapi Handbook
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+
+nav:
+- Home: ./index.md
+- Dependency Injection in FastAPI:
+  - Introduction: ./dependency-injection/introduction.md
+  - FastAPI Injection: ./dependency-injection/fastapi-injection.md
+  - Advanced:
+    - Design Patterns: ./dependency-injection/design-patterns.md
+    - Testing: ./dependency-injection/testing.md
+    - Performance: ./dependency-injection/performance.md
+  - Case Studies:
+    - Authentication: ./dependency-injection/auth.md
+    - Database Management: ./dependency-injection/database.md
+    - External Services: ./dependency-injection/external-services.md
+  - Best Practice: ./dependency-injection/best-practice.md
