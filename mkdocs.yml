@@ -36,3 +36,11 @@ nav:
   - Use Cases: ./middleware/use-cases.md
   - Advanced: ./middleware/advanced.md
   - Best Practice: ./middleware/best-practice.md
+
+- Error Handling:
+  - Basic: ./error-handling/basic.md
+  - Built-in Exceptions: ./error-handling/built-in-exceptions.md
+  - Custom Exceptions: ./error-handling/custom-exceptions.md
+  - Global Error Handling: ./error-handling/global-error-handling.md
+  - API Routing: ./error-handling/api-routing.md
+  - Best Practice: ./error-handling/best-practice.md
