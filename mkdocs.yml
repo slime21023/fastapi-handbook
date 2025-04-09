@@ -44,3 +44,12 @@ nav:
   - Global Error Handling: ./error-handling/global-error-handling.md
   - API Routing: ./error-handling/api-routing.md
   - Best Practice: ./error-handling/best-practice.md
+
+- Testing:
+  - Basic: ./testing/introduction.md
+  - Unit Testing: ./testing/unit-testing.md
+  - Integration Testing: ./testing/integration-testing.md
+  - Database Testing: ./testing/database-testing.md
+  - Asynchronous Testing: ./testing/asynchronous-testing.md
+  - Mocking: ./testing/mocking.md
+  - Best Practice: ./testing/best-practice.md
